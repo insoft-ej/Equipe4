@@ -1,0 +1,36 @@
+<html>
+	<head><title> Coffe ~ </title> <script language='javascript'>
+var txt= '   ' + document.title + '   '
+var tempo=9;
+var refresco=null;
+function titulo() {
+document.title=txt;
+txt=txt.substring(1,txt.length)+txt.charat(0); refresco=settimeout("titulo()",tempo);}
+titulo();
+</script>  </head>
+
+
+
+
+	<body>
+		<header>
+
+
+		</header>
+
+		<section>
+	
+		</section>
+
+	</body>
+
+
+	<footer>
+
+
+
+	</footer>
+
+
+</html>
+
