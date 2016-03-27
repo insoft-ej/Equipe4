@@ -5,16 +5,15 @@
 		<link rel="stylesheet" type="text/css" href="css/header.css" />
 		<link rel="stylesheet" type="text/css" href="css/footer.css" />
 
-
 	</head>
 
 
 	<body>
 		<header>
 
+			
 			<img src="img/logo.png" alt="Logo" title= "Logo" id="logo">
-			<div>
-			</div>
+		
 		
 			<ul id ="menu">
 		
@@ -27,10 +26,25 @@
 
 		</header>
 
-		<section>
+		<div id ="listra">
+		</div>
 
-			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	
+		<section>
+			
+			<br><br><br><br><br><br><br><br><br>
+			<link rel="stylesheet" type="text/css" href="css/section.css" />
+			
+			<div id ="encontra">
+				<h1><marquee behavior=scroll> teste </marquee> </h1>
+			</div>
+			<div id ="promo">
+				
+			</div>
+			<div id ="vendido">
+				
+			</div>
+			
+		
 		</section>
 
 	</body>
