@@ -35,13 +35,25 @@
 			<link rel="stylesheet" type="text/css" href="css/section.css" />
 			
 			<div id ="encontra">
-				<h1><marquee behavior=scroll> teste </marquee> </h1>
+
+				<ul id ="slide">
+				<marquee behavior=scroll> <img src="img/banner1.jpg" alt="Banner" title= "Banner" id="Banner1"> </marquee>
+				<li>
 			</div>
 			<div id ="promo">
+					
+				PAULOKA MALOKA 
 				
 			</div>
 			<div id ="vendido">
+
+				Paulo s2 Gutinho 
+
 				
+			</div>
+
+			<div id= "final">
+			
 			</div>
 			
 		
